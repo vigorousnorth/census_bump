@@ -1,6 +1,6 @@
 ## Bump Chart of Maine's top 25 breweries since 2006.
 
-A bump chart of Maine's top 25 craft breweries, using beer production volume data from the State of Maine. 
+A bump chart of Maine's top 25 craft breweries, using beer production volume data from the State of Maine. [A version of this chart was published on the Portland Press Herald on May 21, 2017](http://www.pressherald.com/2017/05/21/maine-top-25-breweries-2006-today/).
 
 Forked from [Jim Vallandingham's D3 implementation of Henry Gannett's 1890 US Statistical Atlas population chart](https://bocoup.com/blog/vintage-visualization-restoration-bump-chart/).
 
